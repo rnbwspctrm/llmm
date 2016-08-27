@@ -8,9 +8,9 @@ $this->inc('elements/header_top.php');
 <header>
     <div class="container">
         <div class="row">
-            <div class="col-sm-8 col-sm-push-2">
+            <div class="col-sm-8 col-sm-push-3">
                 <?php
-                $a = new GlobalArea('Header Navigation');
+                $a = new GlobalArea('Header Nav');
                 $a->display();
                 ?>
             </div>

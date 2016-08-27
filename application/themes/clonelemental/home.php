@@ -4,7 +4,7 @@ $this->inc('elements/header.php'); ?>
 
 <main id="home-main">
     <div class="container">
-        <div class="col-md-12 col-content">
+        <div class="col-md-8 col-md-push-1 col-content">
             <?php
             $a = new Area('Main');
             $a->setAreaGridMaximumColumns(12);
