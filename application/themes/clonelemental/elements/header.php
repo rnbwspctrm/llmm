@@ -8,7 +8,7 @@ $this->inc('elements/header_top.php');
 <header>
     <div class="container">
         <div class="row">
-            <div class="col-sm-8 col-sm-push-3">
+            <div class="col-sm-10">
                 <?php
                 $a = new GlobalArea('Header Nav');
                 $a->display();

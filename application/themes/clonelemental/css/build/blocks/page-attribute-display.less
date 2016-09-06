@@ -6,12 +6,32 @@ div.ccm-block-page-attribute-display-wrapper {
   color: lighten(@body-type-color, 25%);
 
   .ccm-block-page-attribute-display-title {
-    color: #75ca2a;
-    display: block;
+	color: #000000;
+	display: block;
+	font-size: 1.2em;
   }
 }
 
+hr {
+    display: block;
+    color: #00fbfe;
+    margin: 1em 0;
+    padding: 0;
+}
 
 div.ccm-block-page-attribute-display-wrapper:last-child {
   border-bottom: 1px solid @content-section-divider-color;
+}
+
+div.ccm-block-page-attribute-display-wrapper:first-child {
+  border-top: none;
+}
+
+.project-desc div.ccm-block-page-attribute-display-wrapper:last-child {
+  border-bottom: none;   
+  padding-top: 0px;   
+}
+
+.project-imgs {
+	margin-top: 1.5em;
 }
