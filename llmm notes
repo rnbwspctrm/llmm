@@ -1,0 +1,16 @@
+llmm notes
+
+sitemap blue #00FBFE
+            rgb(0, 251, 254)
+
+
+ToDo:
+    add files for fonts
+
+
+hr {
+    height: 1px;
+    border: 0;
+    border-top: 1px solid #00fbfe;
+
+}
