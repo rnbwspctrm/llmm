@@ -1,0 +1,44 @@
+.ezbio-wrap {
+
+}
+.ezbio-wrap p { 
+	text-align: justify;
+	line-height: 1.5em;
+}
+.biopic { 
+	width: 100%;
+	height: auto !important;
+}
+.biotitle {
+	margin: 5px 0px 5px 0px !important;
+	padding: 0 !important;
+}
+.bioname {
+	padding: 0 !important;
+	margin: 0 !important;
+}
+.biocompany { margin: 0 !important; padding: 0 !important; }
+.biocontent {
+	border-top: 1px solid #ddd;
+	margin-top: 10px;
+}
+.biocontent p {
+	padding: 0 !important;
+	margin: 0px 0px 12px 0px !important;
+}
+.bio-social { 
+	padding: 6px 0px 4px 0px;
+	margin: 9px 0 0 0;
+	text-align: center;
+	border-top: 1px solid #ddd;
+}
+.bio-social a {
+	padding: 5px 2px 5px 2px;
+	margin: 0px 3px 0px 3px;
+}
+.biocard {
+	padding: 10px;
+	margin: 0;
+	border: 1px solid #ddd;
+}
+.biocard i { width: 28px; text-align: center !important;}

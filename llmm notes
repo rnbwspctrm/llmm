@@ -1,11 +1,23 @@
 llmm notes
 
-sitemap blue #00FBFE
-            rgb(0, 251, 254)
-
 
 ToDo:
     add files for fonts
+
+-- printable file upload
+-- finick with menu styles
+-- wysiwyg on screen
+
+
+
+
+
+sitemap aqua blue #00FBFE
+            rgb(0, 251, 254)
+        navy blue #2F2EA5
+            rgb(47, 43, 165)
+
+
 
 
 hr {
@@ -14,3 +26,23 @@ hr {
     border-top: 1px solid #00fbfe;
 
 }
+
+
+Mom user docs:
+
+When creating any type of project (collection, sheet, etc) the "thumbnail" for 
+    the first "project" will be used as the thumbnail for that projects page. For
+    a collection of projects, choose a thumbnail that represents the collection.
+
+To edit a page:
+    Click on the gear in the top left of the screen.
+    'Composer' will open.
+    There are fields all inputs on the page.
+    Click 'Save' to preview changes.
+    Click "Publish" when you are ready to update the live site.
+
+To add images into the project description:
+    Add image.
+    Click on the 'edit' button in the center of the image.
+
+

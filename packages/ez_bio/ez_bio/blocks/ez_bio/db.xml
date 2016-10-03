@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<schema version="0.3">
+    <table name="btEzBio">
+        <field name="bID" type="I">
+            <key />
+            <unsigned />
+        </field>
+        <field name="fID" type="I"></field>
+		<field name="bioname" type="C" size="255"></field>
+		<field name="biotitle" type="C" size="255"></field>
+		<field name="company" type="C" size="255"></field>
+		<field name="location" type="C" size="255"></field>
+		<field name="biophone" type="C" size="255"></field>
+		<field name="biocell" type="C" size="255"></field>
+		<field name="biourl" type="C" size="255"></field>
+		<field name="facebook" type="C" size="255"></field>
+		<field name="twitter" type="C" size="255"></field>
+		<field name="linkedin" type="C" size="255"></field>
+		<field name="instagram" type="C" size="255"></field>
+		<field name="email" type="C" size="255"></field>
+		<field name="biocontent" type="X2"/>
+		<field name="emobf" type="I1"><default value="0" /></field>
+		<field name="maplink" type="I1"><default value="0" /></field>
+    </table>
+</schema>
